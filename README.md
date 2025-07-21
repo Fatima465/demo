@@ -1,4 +1,4 @@
 # demo
 1st repository
-<br>  //nxt line
+<br>  
 this is my firstgithub project file 
